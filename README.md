@@ -1,2 +1,4 @@
 # EcoEconomicalFYP
-Final Year Project of an ecommerce website
+Title - Website Calculating Carbon Emissions within Household
+
+A simple website I designed for my Final Year Project that includes a calculator that calculates the amount of greenhouse gas emissions from household appliances as well as the costs of using these appliances in order to tackle how our carbon footprint harms the environment. People will be able to save money on their energy bills while also helping the environment by lowering their CO2 or other greenhouse gas emissions. There is also the option be able to buy sustainable and eco-friendly products to reduce their carbon footprint on the planet's atmosphere and reduce their electricity and gas costs. Also created an administration section to handle all available products, customer orders, and EcoEconomical website account users.
